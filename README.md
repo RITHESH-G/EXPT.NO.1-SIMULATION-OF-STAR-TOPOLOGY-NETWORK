@@ -1,4 +1,3 @@
-# DATE
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
@@ -7,7 +6,6 @@
 
 Desktop computer
 Cisco Packet Tracer 5.0 Software.
-
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
@@ -22,17 +20,16 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # IP CONNECTIVITY TABLE
 
-
+<img width="979" height="228" alt="Screenshot 2025-11-05 155901" src="https://github.com/user-attachments/assets/22628a02-3f8d-42ce-816e-220f3cc0abde" />
 
 # NETWORK DIAGRAM
 
-
-
+<img width="805" height="511" alt="image" src="https://github.com/user-attachments/assets/8ea93477-2217-4033-a44c-fc5e37150aa9" />
 
 # OUTPUT
 
+<img width="909" height="497" alt="image" src="https://github.com/user-attachments/assets/9e617940-bab5-40dd-a6f2-12f33c804b57" />
 
 # RESULT
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
-
